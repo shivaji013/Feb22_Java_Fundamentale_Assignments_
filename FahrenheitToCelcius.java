@@ -1,5 +1,5 @@
-//Write a Java program to convert temperature from Fahrenheit to Celsius degree.
-package Assignment_java;
+//WAP to convert temperature from Fahrenheit to Celsius degree.
+
 
 import java.util.Scanner;
 
