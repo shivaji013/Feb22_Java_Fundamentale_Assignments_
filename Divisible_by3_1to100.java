@@ -1,6 +1,6 @@
 //WAP to print divisible by 3 from 1 to 100
 
-package Assignment_java;
+package Assignment_java.Feb22_Java_Fundamentale_Assignments_;
 
 public class Divisible_by3_1to100 {
 

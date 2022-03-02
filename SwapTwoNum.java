@@ -1,3 +1,5 @@
+package Assignment_java.Feb22_Java_Fundamentale_Assignments_;
+
 import java.util.Scanner;
 
 public class SwapTwoNum {

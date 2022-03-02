@@ -1,4 +1,4 @@
-package Assignment_java;
+package Assignment_java.Feb22_Java_Fundamentale_Assignments_;
 
 public class Pattern_Reverse_Triangle {
 
