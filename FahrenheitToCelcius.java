@@ -1,4 +1,4 @@
-//WAP to convert temperature from Fahrenheit to Celsius degree.
+package Assignment_java.Feb22_Java_Fundamentale_Assignments_;
 
 
 import java.util.Scanner;
@@ -8,6 +8,8 @@ public class FahrenheitToCelcius {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		/*WAP to convert temperature from Fahrenheit to Celsius degree.*/
+		
 		float fahrenheit;
 		float celcius;
 		Scanner scan=new Scanner(System.in);

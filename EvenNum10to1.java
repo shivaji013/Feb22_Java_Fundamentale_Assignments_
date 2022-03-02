@@ -1,4 +1,7 @@
+package Assignment_java.Feb22_Java_Fundamentale_Assignments_;
+
 // WAP to print 10 ,8 ,6 ,4 ,2 using For loop
+
 public class EvenNum10to1 {
 
 	public static void main(String[] args) {
